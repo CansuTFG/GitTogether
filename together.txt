@@ -4,3 +4,4 @@ The objective of my capstone is to analyse obesity prediction in a Kaggle challe
 The objective of my capstone is to predict podcast listening times using supervised learning (Ash).
 The objective of my capstone is to analyse impact of rainfall on sewage spills in the UK. (Marcin Lenarcik)
 The objective of my capstone is to optimize retail decisions through customer segmentation and sales prediction. (Juan Benavides)
+The objective of my capstone is to analyze and optimize a portfolio strategy. (Alonzo Diaz Avalos)
