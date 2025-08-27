@@ -3,3 +3,4 @@ The objective of my capstone project is to analyse and predict customer churn.[C
 The objective of my capstone is to analyse obesity prediction in a Kaggle challenge dataset.(Frazer Smillie)
 The objective of my capstone is to predict podcast listening times using supervised learning (Ash).
 The objective of my capstone is to analyse impact of rainfall on sewage spills in the UK. (Marcin Lenarcik)
+The objective of my capstone is to optimize retail decisions through customer segmentation and sales prediction. (Juan Benavides)
