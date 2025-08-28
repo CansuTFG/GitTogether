@@ -6,4 +6,4 @@ The objective of my capstone is to analyse impact of rainfall on sewage spills i
 The objective of my capstone is to optimize retail decisions through customer segmentation and sales prediction. (Juan Benavides)
 The objective of my capstone is to analyze and optimize a portfolio strategy. (Alonzo Diaz Avalos)
 The objective of my capstone is to categorise business travellers into groups and potentially be able to predict if a new traveller is/is not worth targeting for marketing. (Benjamin Manuel)
-The objective of my capstone project is to compare time series and machine learning models accuracy in predicting the future price of stocks. (Ajay Ravindranath)
+The objective of my capstone project is to compare time series and machine learning models accuracy in predicting the future price of stocks (Ajay Ravindranath).
