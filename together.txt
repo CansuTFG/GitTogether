@@ -7,3 +7,4 @@ The objective of my capstone is to optimize retail decisions through customer se
 The objective of my capstone is to analyze and optimize a portfolio strategy. (Alonzo Diaz Avalos)
 The objective of my capstone is to categorise business travellers into groups and potentially be able to predict if a new traveller is/is not worth targeting for marketing. (Benjamin Manuel)
 The objective of my capstone project is to compare time series and machine learning models accuracy in predicting the future price of stocks (Ajay Ravindranath).
+The objective of my capstone project is to analyse online clothing sales using transactional data from Amazon in order to uncover useful insights for potential new market entrants (Romans Matulevics)
